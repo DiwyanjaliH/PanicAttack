@@ -22,7 +22,7 @@ body {
   padding: 15px;
   position: sticky; /* or fixed */
   top: 0;
-  background: white; /* prevents overlap issues */
+
   z-index: 1000;
 }
 
