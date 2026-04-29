@@ -26,6 +26,12 @@ body {
   z-index: 1000;
 }
 
+.title:hover
+{
+  background: #F54927;
+  transform: scale(1.05);
+}
+
 .subtitle {
   margin-bottom: 20px;
 }
