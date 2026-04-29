@@ -26,12 +26,10 @@ body {
   z-index: 1000;
 }
 
-.title:hover
-{
-  background: #F54927;
-  transform: scale(1.05);
+.title:hover::after {
+  width: 100%;
+  transition-duration: 2700s;
 }
-
 .subtitle {
   margin-bottom: 20px;
 }
